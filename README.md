@@ -1,16 +1,19 @@
-### Hi there 👋
+### Bom dia! Perfil de João Augusto
 
-<!--
-**JoaoAHaupt/JoaoAHaupt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Estou aprendendo Java e Spring Boot Framework
+- 👯 Estou trabalho no projeto Elixir🍷
+- 📫 Me contate! joao.haupt.profissional@gmail.com
 
-Here are some ideas to get you started:
+### Skills
+<div style="display: inline_block"><br>
+  <img align="center" alt="JoaoVS" height="80" width="100"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img align="center" alt="JoaoC" height="80" width="100" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img align="center" alt="JoaoJava" height="80" width="100" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="center" alt="JoaoSpring" height="80" width="100"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
+  <img align="center" alt="JoaoMySql" height="80" width="100" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="center" alt="JoaoPy" height="80" width="100"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+  
+
