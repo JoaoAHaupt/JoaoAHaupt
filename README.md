@@ -1,8 +1,9 @@
 ### Bom dia! Perfil de João Augusto
 
-- 🌱 Estou aprendendo Java e Spring Boot Framework
-- 👯 Estou trabalho no projeto Elixir🍷
-- 📫 Me contate! joao.haupt.profissional@gmail.com
+Redes sociais
+
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](www.instagram.com/joaoaugustohaupt/#)
+
 
 ### Skills
 <div style="display: inline_block"><br>
@@ -15,5 +16,4 @@
 
 
 
-  
 
