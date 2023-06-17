@@ -1,6 +1,6 @@
-### Bom dia! Perfil de João Augusto
+# 🖥 Bem vindo ao perfil de João Augusto! 🖱
 
-## Skills
+## Skills 🛠
 <div style="display: inline_block"><br>
   <img align="center" alt="JoaoVS" height="80" width="100"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align="center" alt="JoaoC" height="80" width="100" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
