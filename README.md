@@ -1,4 +1,6 @@
-# 🖥 Bem vindo ao perfil de João Augusto! 🖱
+<h1 align="center">🖥 Bem vindo ao perfil de João Augusto!</h1>
+<h3 align="center">Cursando informática no Instituto Federal de São Paulo</h3> 
+<h3 align="center">8° lugar no Interif de 2022</h3>
 
 ## Skills 🛠
 <div style="display: inline_block"><br>
@@ -9,7 +11,7 @@
   <img align="center" alt="JoaoMySql" height="80" width="100" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" alt="JoaoPy" height="80" width="100"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 
-## Redes sociais
+## Contato 📱
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=<joao.haupt.profissional@gmail.com>&su=Olá,João!&body=)
   [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/435221894980042753)
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/joaoaugustohaupt)
