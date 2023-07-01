@@ -1,6 +1,6 @@
 <h1 align="center">🖥 Bem vindo ao perfil de João Augusto!</h1>
 <h3 align="center">Cursando informática no Instituto Federal de São Paulo</h3> 
-<h3 align="center">8° lugar no Interif de 2022</h3>
+<h3 align="center">2° fase no Interif de 2022</h3>
 
 ## Skills 🛠
 <div style="display: inline_block"><br>
