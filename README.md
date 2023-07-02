@@ -4,7 +4,6 @@
 
 ## Skills 🛠
 <div style="display: inline_block"><br>
-  <img align="center" alt="JoaoVS" height="80" width="100"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align="center" alt="JoaoGit" height="80" width="100" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="JoaoC" height="80" width="100" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img align="center" alt="JoaoJava" height="80" width="100" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
