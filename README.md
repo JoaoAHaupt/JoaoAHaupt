@@ -1,10 +1,7 @@
 <h1 align="center">🖥 Bem vindo ao perfil de João Augusto!</h1>
-<h3 align="center">Cursando informática no Instituto Federal de São Paulo</h3> 
-<h3 align="center">8° lugar da segunda fase no Interif de 2022</h3>
+<h3 align="center">📚 Cursando informática no Instituto Federal de São Paulo</h3> 
+<h3 align="center">🎖 8° lugar da segunda fase no Interif de 2022</h3>
 <h3 align="center">🔭 Atualmente trabalhando no elixir-api</h3>
-
-
-
 <h3 align="center">🌱 Aprendendo JavaFX, JDBC</h3> 
 
 ## Skills 🛠
