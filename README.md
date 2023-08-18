@@ -4,6 +4,13 @@
 <h3 align="center">🔭 Atualmente trabalhando no elixir-api</h3>
 <h3 align="center">🌱 Aprendendo JavaFX, JDBC</h3> 
 
+<div align="center">
+  <a href="https://github.com/AruDaguer">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoAHaupt&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JoaoAHaupt&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
 ## Skills 🛠
 <div style="display: inline_block"><br>
   <img align="center" alt="JoaoC" height="50" width="60" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
