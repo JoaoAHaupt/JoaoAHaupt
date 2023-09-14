@@ -1,6 +1,8 @@
-<h1 align="center">🖥 Bem vindo ao perfil de João Augusto!</h1>
+<p align="center">
+  <img src="https://blinkies.cafe/b/blinkiesCafe-NT.gif" alt="Texto Alternativo">
+</p>
+
 <h3 align="center">📚 Cursando informática no Instituto Federal de São Paulo</h3> 
-<h3 align="center">🎖 8° lugar da segunda fase no Interif de 2022</h3>
 <h3 align="center">🔭 Atualmente trabalhando no elixir-api</h3>
 <h3 align="center">🌱 Aprendendo JavaFX, JDBC</h3> 
 
@@ -13,15 +15,17 @@
 
 ## Skills 🛠
 <div style="display: inline_block"><br>
-  <img align="center" alt="JoaoC" height="50" width="60" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  <img align="center" alt="JoaoJava" height="50" width="60" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" alt="JoaoMySql" height="50" width="60" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  <img align="center" alt="JoaoPy" height="50" width="60"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="center" alt="JoaoMD" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
-  <img align="center" alt="JoaoGit" height="50" width="60" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="center" alt="JoaoC" height="60" width="70" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img align="center" alt="JoaoJava" height="60" width="70" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="center" alt="JoaoMySql" height="60" width="70" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="center" alt="JoaoPy" height="60" width="70"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="center" alt="JoaoMD" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
+  <img align="center" alt="JoaoGit" height="60" width="70" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="JoaoHtml" height="60" width="70" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
   <img align="center" alt="JoaoCss" height="60" width="70" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-  <img align="center" alt="JoaoJS" height="50" width="60" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="JoaoJS" height="60" width="70" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="JoaoAPACHE" height="70" width="70" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" />
+
 
 
 
