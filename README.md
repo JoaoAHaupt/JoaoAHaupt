@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://blinkies.cafe/b/blinkiesCafe-NT.gif" alt="Texto Alternativo">
+  <img src="https://imgur.com/pp6KbPW.gif" alt="Texto Alternativo">
 </p>
 
 <h3 align="center">📚 Cursando informática no Instituto Federal de São Paulo</h3> 
