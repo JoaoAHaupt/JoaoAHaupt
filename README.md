@@ -3,8 +3,8 @@
 </p>
 
 <h3 align="center">📚 Cursando informática no Instituto Federal de São Paulo</h3> 
-<h3 align="center">🔭 Atualmente trabalhando no elixir-api</h3>
-<h3 align="center">🌱 Aprendendo JavaFX, JDBC</h3> 
+<h3 align="center">🔭 Atualmente trabalhando no elixir-api e bellFinancas</h3>
+<h3 align="center">🌱 Aprendendo Java, JDBC</h3> 
 
 <div align="center">
   <a href="https://github.com/JoaoAHaupt">
@@ -24,7 +24,6 @@
   <img align="center" alt="JoaoHtml" height="60" width="70" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
   <img align="center" alt="JoaoCss" height="60" width="70" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
   <img align="center" alt="JoaoJS" height="60" width="70" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="JoaoAPACHE" height="70" width="70" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" />
 
 
 
