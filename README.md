@@ -4,12 +4,12 @@
 
 <h3 align="center">📚 Cursando informática no Instituto Federal de São Paulo</h3> 
 <h3 align="center">⚛ Aprendendo React!
+<br></h3>
 
 <div align="center">
   <a href="https://github.com/JoaoAHaupt">
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoAHaupt&layout=compact&langs_count=7&theme=dracula"/>
   </a>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JoaoAHaupt&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 ## Skills 🛠
