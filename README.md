@@ -3,7 +3,7 @@
 </p>
 
 <h3 align="center">📚 Cursando informática no Instituto Federal de São Paulo</h3> 
-<h3 align="center">🌱 Aprendendo SpringBoot!
+<h3 align="center">⚛ Aprendendo React!
 
 <div align="center">
   <a href="https://github.com/JoaoAHaupt">
