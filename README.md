@@ -3,7 +3,7 @@
 </p>
 
 <h3 align="center">📚 Cursando informática no Instituto Federal de São Paulo</h3> 
-<h3 align="center">⚛ Aprendendo React!
+<h3 align="center">⚛ Aprendendo React e me aprofundando em Python e Java!
 <br></h3>
 
 
@@ -12,11 +12,9 @@
   <a href="https://github.com/JoaoAHaupt">
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoAHaupt&layout=compact&langs_count=7&theme=dracula"/>
   </a>
-</div>
-
-
-## Skills 🛠
+  <h2>Skills 🛠</h2> 
 <div style="display: inline_block"><br>
+  <img  align="center" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original-wordmark.svg" />
   <img align="center" alt="JoaoMySql" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" alt="JoaoJava" height="60" width="70"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="JoaoC" height="60" width="70"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
@@ -28,6 +26,10 @@
   <img align="center" alt="JoaoHtml" height="60" width="70"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
   <img align="center" alt="JoaoGit" height="60" width="70"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="JoaoMD" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
+</div>
+
+</div>
+
 
 
 
