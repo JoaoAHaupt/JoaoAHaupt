@@ -6,10 +6,13 @@
 <h3 align="center">⚛ Aprendendo React e me aprofundando em Python e Java!
 <br></h3>
 
+<!-- Github Stats   -->
+
+
 
 <div align="center">
   <a href="https://github.com/JoaoAHaupt">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoAHaupt&layout=compact&langs_count=7&theme=dracula"/>
+    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoAHaupt&&theme=algolia" alt="AzizBenIsmail" /></p>
   </a>
   <h2>Skills 🛠</h2> 
 <div style="display: inline_block"><br>
