@@ -6,9 +6,6 @@
 <h3 align="center">⚛ Aprendendo React e me aprofundando em Python e Java!
 <br></h3>
 
-<!-- Github Stats   -->
-
-
 
 <div align="center">
   <a href="https://github.com/JoaoAHaupt">
