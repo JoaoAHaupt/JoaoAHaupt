@@ -3,9 +3,8 @@
 </p>
 
 <h3 align="center">📚 Cursando informática no Instituto Federal de São Paulo</h3> 
-<h3 align="center">⚛ Aprendendo React e me aprofundando em Python e Java!
+<h3 align="center">Aprendendo Spring e Docker e me aprofundando em e Java!
 <br></h3>
-
 
 <div align="center">
   <a href="https://github.com/JoaoAHaupt">
