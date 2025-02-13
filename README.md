@@ -2,6 +2,7 @@
   <img src="https://imgur.com/pp6KbPW.gif" alt="Texto Alternativo">
 </p>
 
+
 <h3 align="center">📚 Cursando informática no Instituto Federal de São Paulo</h3> 
 <h3 align="center">Aprendendo Spring e Docker e me aprofundando em e Java!
 <br></h3>
