@@ -1,8 +1,6 @@
 <p align="center">
   <img src="https://imgur.com/pp6KbPW.gif" alt="Texto Alternativo">
 </p>
-
-
 <h3 align="center">📚 Cursando informática no Instituto Federal de São Paulo</h3> 
 <h3 align="center">Aprendendo Spring e Docker e me aprofundando em e Java!
 <br></h3>
@@ -28,19 +26,5 @@
 <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original-wordmark.svg" />
 <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" />
 
-</div>
-
-</div>
-
-
-
-
-
-
-
 ## Contato 📱
   <a href = "mailto:joao.haupt.profissional@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail" target="_blank"></a>
-
-
-
-
