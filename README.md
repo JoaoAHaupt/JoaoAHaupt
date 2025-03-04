@@ -5,8 +5,6 @@
 <h3 align="center">Aprendendo Spring e Docker e me aprofundando em e Java!
 <br></h3>
 
-
-
 <div align="center">
   <a href="https://github.com/JoaoAHaupt">
     <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoAHaupt&&theme=algolia" alt="AzizBenIsmail" /></p>
