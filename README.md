@@ -59,6 +59,6 @@
 
 ## 🏆 Highlights
 - 🥇 Winner of **INTERIF 2024** (statewide programming marathon). Even as a high school team, my team and me, beat university-level competitors.  
-- 💻 I’ve built projects ranging from a **stock exchange simulator** to a platform for **dog adoption**, **RPG campaign system**, a lot of API in diferrents langues and much more.  
+- 💻 I’ve built projects ranging from a **stock exchange simulator**, to a **dog adoption platform**, an **RPG campaign system**, several **APIs in different languages**, and much more.  
 - Love Java!☕
 ---
