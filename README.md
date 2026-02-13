@@ -1,12 +1,6 @@
 <p align="center">
-  <img src="https://imgur.com/pp6KbPW.gif" alt="Animated banner">
+  <img src="https://i.imgur.com/pp6KbPW.gif" alt="Animated banner">
 </p>
-
-<samp>
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logoColor=white&logo=linkedin)](https://linkedin.com/in/joaoahaupt)
-[![Email](https://img.shields.io/badge/email-c71610.svg?style=for-the-badge&logoColor=white&logo=gmail)](mailto:joao.haupt.oliveira@gmail.com)
 
 </div>
 
@@ -15,7 +9,14 @@
   <b>Computer Science undergraduate</b> at 
   <a href="https://www.ime.usp.br/" target="_blank">IME-USP</a>.
 </h3>
+<samp>
+<div align="center">
 
+[![LinkedIn](https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logoColor=white&logo=linkedin)](https://linkedin.com/in/joaoahaupt)
+[![Email](https://img.shields.io/badge/email-c71610.svg?style=for-the-badge&logoColor=white&logo=gmail)](mailto:joao.haupt.oliveira@gmail.com)
+
+</div>
+</samp>
 ---
 
 ### Languages I’ve worked with
