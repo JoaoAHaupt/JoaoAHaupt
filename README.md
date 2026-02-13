@@ -10,7 +10,7 @@
 
 </div>
 
-<h3>
+<h3 align="center">
   Hi, I’m João Augusto Haupt Fonseca Oliveira 👋<br>
   <b>Computer Science undergraduate</b> at 
   <a href="https://www.ime.usp.br/" target="_blank">IME-USP</a>.
