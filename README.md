@@ -22,45 +22,45 @@
 
 ### Languages I’ve worked with
 
-[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
-[![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)](#)
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+![C](https://img.shields.io/badge/-C-000?&logo=C)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+
+
 
 ### Databases
 
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)](#)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
-[![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)](#)
-[![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](#)
-[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
+![MySQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![MariaDB](https://img.shields.io/badge/-MariaDB-000?&logo=mariadb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql)
+![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=sqlite)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
 
 ### Frameworks
 
-[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)](#)
+![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
 [![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)](#)
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)](#)
-[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
-[![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)](#)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Node.js](https://img.shields.io/badge/-Next.js-000?&logo=next.js)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 
 ### Tools & Technologies
-
-[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
-[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
-[![JWT](https://img.shields.io/badge/JWT-000000?logo=json-web-tokens&logoColor=white)](#)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
-[![VS Code](https://custom-icon-badges.demolab.com/badge/VS%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
-[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)](#)
-[![PyCharm](https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff)](#)
-[![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)](#)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker)
+![Git](https://img.shields.io/badge/-Git-000?&logo=git)
+![JWT](https://img.shields.io/badge/-JWT-000?&logo=json-web-tokens)
+![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=github)
+![Vercel](https://img.shields.io/badge/-Vercel-000?&logo=vercel)
+![Render](https://img.shields.io/badge/-Render-000?&logo=render)
 
 ### Operating Systems
 
-[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
-[![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?logo=manjaro&logoColor=fff)](#)
-[![Fedora](https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=fff)](#)
-[![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
+![Manjaro](https://img.shields.io/badge/-Manjaro-000?&logo=manjaro)
+![Fedora](https://img.shields.io/badge/-Fedora-000?&logo=fedora)
+![Windows](https://img.shields.io/badge/-Windows-000?&logo=windows)
+![Debian](https://img.shields.io/badge/-Debian-000?&logo=debian)
+![EndeavourOS](https://img.shields.io/badge/-EndeavourOS-000?&logo=endeavouros)
 
 ---
 
