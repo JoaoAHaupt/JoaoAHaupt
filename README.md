@@ -1,19 +1,16 @@
-<p align="center">
-  <img src="https://i.imgur.com/pp6KbPW.gif" alt="Animated banner">
-</p>
-
-</div>
-
 <h3 align="center">
-  ![ASCII name art](static/img/name.png)
-  Comp. studant at IME-USP
+  <img src="https://blob.gifcities.org/gifcities/24WAP4DAYTKWRRO6VBXYTH2YA4VFLFAA.gif" width="120px" alt="tux">
+  <img src="static/img/name.png" width="60%" alt="ASCII name art">
+  <img src="static/gif/globe.gif" width="100px" alt="globe">
+  <br>
+  Comp. student at IME-USP
   <a href="https://www.ime.usp.br/" target="_blank">IME-USP</a>.
 </h3>
 <samp>
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logoColor=white&logo=linkedin)](https://linkedin.com/in/joaoahaupt)
-[![Email](https://img.shields.io/badge/email-c71610.svg?style=for-the-badge&logoColor=white&logo=gmail)](mailto:joao.haupt.oliveira@gmail.com)
+[![Email](https://blob.gifcities.org/gifcities/53H4BUKNMCR7BQQJWKCMH7YQK6JIGA6O.gif)](mailto:joao.haupt.oliveira@gmail.com)
 
 </div>
 </samp>
