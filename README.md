@@ -14,9 +14,10 @@
 
 </div>
 </samp>
-
----
-
+<p align="center">
+  <img src="https://blob.gifcities.org/gifcities/JK3WPXZXOT5TLYNVEUGASOHEISI6ZUYU.gif" width="500">
+  <img src="https://blob.gifcities.org/gifcities/JK3WPXZXOT5TLYNVEUGASOHEISI6ZUYU.gif" width="500">
+</p>
 ### Languages I’ve worked with
 
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
@@ -59,7 +60,10 @@
 ![Debian](https://img.shields.io/badge/-Debian-000?&logo=debian)
 ![EndeavourOS](https://img.shields.io/badge/-EndeavourOS-000?&logo=endeavouros)
 
----
+<p align="center">
+  <img src="https://blob.gifcities.org/gifcities/JK3WPXZXOT5TLYNVEUGASOHEISI6ZUYU.gif" width="500">
+  <img src="https://blob.gifcities.org/gifcities/JK3WPXZXOT5TLYNVEUGASOHEISI6ZUYU.gif" width="500">
+</p>
 
 ## 🏆 Highlights
 - 🥇 **Winner of INTERIF 2024**, a statewide programming marathon, competing against university-level teams.  
