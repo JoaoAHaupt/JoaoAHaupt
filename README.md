@@ -3,8 +3,8 @@
   <img src="static/img/name.png" width="60%" alt="ASCII name art">
   <img src="static/gif/globe.gif" width="100px" alt="globe">
   <br>
-  Comp. student at IME-USP
-  <a href="https://www.ime.usp.br/" target="_blank">IME-USP</a>.
+  <img src="static/gif/comp.gif">
+
 </h3>
 <samp>
 <div align="center">
@@ -15,8 +15,8 @@
 </div>
 </samp>
 <p align="center">
-  <img src="https://blob.gifcities.org/gifcities/JK3WPXZXOT5TLYNVEUGASOHEISI6ZUYU.gif" width="500">
-  <img src="https://blob.gifcities.org/gifcities/JK3WPXZXOT5TLYNVEUGASOHEISI6ZUYU.gif" width="500">
+  <img src="https://blob.gifcities.org/gifcities/JK3WPXZXOT5TLYNVEUGASOHEISI6ZUYU.gif" width="300">
+  <img src="https://blob.gifcities.org/gifcities/JK3WPXZXOT5TLYNVEUGASOHEISI6ZUYU.gif" width="300">
 </p>
 ### Languages I’ve worked with
 
