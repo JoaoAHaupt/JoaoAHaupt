@@ -67,8 +67,8 @@
 
 ### Extension groups
 <div align="center">
-  <img src="static/img/lepo.jpg" width="250px"  hspace="100">
-  <img src="static/img/lepo2.jpg" width="250px"  hspace="100">
+  <img src="static/img/lepo.jpg" width="250px"  hspace="50">
+  <img src="static/img/lepo2.jpg" width="250px"  hspace="50">
 </div>
 
 - **FLUSP** - FLOSS at USP: A group of graduate and undergraduate students at the University of São Paulo (USP) that aims to contribute to free software (Free/Libre/Open Source Software - FLOSS) projects. <img src="https://blob.gifcities.org/gifcities/7C3NEBU2AHXJNKEWAMD5ROI7LJ37KIMG.gif" height="50">
