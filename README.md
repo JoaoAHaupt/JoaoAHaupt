@@ -15,9 +15,9 @@
 </div>
 </samp>
 <p align="center">
-  <img src="https://blob.gifcities.org/gifcities/JK3WPXZXOT5TLYNVEUGASOHEISI6ZUYU.gif" width="300">
-  <img src="https://blob.gifcities.org/gifcities/JK3WPXZXOT5TLYNVEUGASOHEISI6ZUYU.gif" width="300">
+  <img src="https://blob.gifcities.org/gifcities/JK3WPXZXOT5TLYNVEUGASOHEISI6ZUYU.gif" width="1000">
 </p>
+
 ### Languages I’ve worked with
 
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
@@ -61,8 +61,18 @@
 ![EndeavourOS](https://img.shields.io/badge/-EndeavourOS-000?&logo=endeavouros)
 
 <p align="center">
-  <img src="https://blob.gifcities.org/gifcities/JK3WPXZXOT5TLYNVEUGASOHEISI6ZUYU.gif" width="500">
-  <img src="https://blob.gifcities.org/gifcities/JK3WPXZXOT5TLYNVEUGASOHEISI6ZUYU.gif" width="500">
+  <img src="https://blob.gifcities.org/gifcities/JK3WPXZXOT5TLYNVEUGASOHEISI6ZUYU.gif" width="1000">
+</p>
+
+## Extension groups
+<div align="center">
+  <img src="static/img/lepo.png">
+  <img src="static/img/lepo2.png">
+</div>
+
+
+<p align="center">
+  <img src="https://blob.gifcities.org/gifcities/JK3WPXZXOT5TLYNVEUGASOHEISI6ZUYU.gif" width="1000">
 </p>
 
 ## 🏆 Highlights
