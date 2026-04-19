@@ -1,4 +1,5 @@
 <h3 align="center">
+  <img src="https://blob.gifcities.org/gifcities/IR52KJNYWCMOWVXYX4IIO7UV3PX6RR6R.gif"> <br>
   <img src="https://blob.gifcities.org/gifcities/24WAP4DAYTKWRRO6VBXYTH2YA4VFLFAA.gif" width="120px" alt="tux">
   <img src="static/img/name.png" width="60%" alt="ASCII name art">
   <img src="static/gif/globe.gif" width="100px" alt="globe">
@@ -9,7 +10,7 @@
 <samp>
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logoColor=white&logo=linkedin)](https://linkedin.com/in/joaoahaupt)
+[![LinkedIn](https://blob.gifcities.org/gifcities/3AE5CBZDD3KN33UUP3NWXFTYZ3MSHSKO.gif)](https://linkedin.com/in/joaoahaupt)
 [![Email](https://blob.gifcities.org/gifcities/53H4BUKNMCR7BQQJWKCMH7YQK6JIGA6O.gif)](mailto:joao.haupt.oliveira@gmail.com)
 
 </div>
@@ -64,20 +65,26 @@
   <img src="https://blob.gifcities.org/gifcities/JK3WPXZXOT5TLYNVEUGASOHEISI6ZUYU.gif" width="1000">
 </p>
 
-## Extension groups
+### Extension groups
 <div align="center">
-  <img src="static/img/lepo.png">
-  <img src="static/img/lepo2.png">
+  <img src="static/img/lepo.jpg" width="250px"  hspace="100">
+  <img src="static/img/lepo2.jpg" width="250px"  hspace="100">
 </div>
 
+- **FLUSP** - FLOSS at USP: A group of graduate and undergraduate students at the University of São Paulo (USP) that aims to contribute to free software (Free/Libre/Open Source Software - FLOSS) projects. <img src="https://blob.gifcities.org/gifcities/7C3NEBU2AHXJNKEWAMD5ROI7LJ37KIMG.gif" height="50">
+  
+- **FEA.dev**: Studant association of Fin. Quant. and artificial intelligence (AI) of FEAUSP (School of Economics, Business, Accounting and Actuary/USP)
 
 <p align="center">
   <img src="https://blob.gifcities.org/gifcities/JK3WPXZXOT5TLYNVEUGASOHEISI6ZUYU.gif" width="1000">
 </p>
 
-## 🏆 Highlights
-- 🥇 **Winner of INTERIF 2024**, a statewide programming marathon, competing against university-level teams.  
-- 💻 Built projects ranging from **APIs and automation tools** to **web platforms**, **simulators**, and **systems for real users**.  
-- ☕ Strong interest in **Java**, back-end development, algorithms, and system design.
+<img src="https://blob.gifcities.org/gifcities/2DXALESZTQOP5Q3TSATZ6DT35GF44RHU.gif" height="35"> 
+
+- Studant at the **best university** of Latin America and the south hemisphere. **USP**
+- **Winner of INTERIF 2024**, a statewide programming marathon, competing against university-level teams.  
+- Built projects ranging from **APIs and automation tools** to **web platforms**, **simulators**, and **systems for real users**.  
+
+<img src="https://blob.gifcities.org/gifcities/6WUE4WCPNE7GYO6Y3IB6FPMCOV3FSKO2.gif" width="100%">
 
 </samp>
