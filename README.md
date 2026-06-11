@@ -23,7 +23,7 @@
 
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+![Java](https://img.shields.io/badge/-Java-000?&logo=java&logoColor=007396)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 
@@ -44,22 +44,26 @@
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Node.js](https://img.shields.io/badge/-Next.js-000?&logo=next.js)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=pandas)
 
 ### Tools & Technologies
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker)
+![Podman](https://img.shields.io/badge/-Podman-000?&logo=podman)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
 ![JWT](https://img.shields.io/badge/-JWT-000?&logo=json-web-tokens)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=github)
 ![Vercel](https://img.shields.io/badge/-Vercel-000?&logo=vercel)
 ![Render](https://img.shields.io/badge/-Render-000?&logo=render)
+![Ollama](https://img.shields.io/badge/-Ollama-000?&logo=ollama)
 
 ### Operating Systems
 
-![Manjaro](https://img.shields.io/badge/-Manjaro-000?&logo=manjaro)
-![Fedora](https://img.shields.io/badge/-Fedora-000?&logo=fedora)
-![Windows](https://img.shields.io/badge/-Windows-000?&logo=windows)
-![Debian](https://img.shields.io/badge/-Debian-000?&logo=debian)
 ![EndeavourOS](https://img.shields.io/badge/-EndeavourOS-000?&logo=endeavouros)
+![CachyOS](https://img.shields.io/badge/-CachyOS-000?&logo=cachyos)
+![Manjaro](https://img.shields.io/badge/-Manjaro-000?&logo=manjaro)
+![Debian](https://img.shields.io/badge/-Debian-000?&logo=debian)
+![Windows](https://img.shields.io/badge/-Windows-000?&logo=windows)
+
 
 <p align="center">
   <img src="https://blob.gifcities.org/gifcities/JK3WPXZXOT5TLYNVEUGASOHEISI6ZUYU.gif" width="1000">
