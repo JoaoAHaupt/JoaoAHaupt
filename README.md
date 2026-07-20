@@ -90,5 +90,12 @@
 - Built projects ranging from **APIs and automation tools** to **web platforms**, **simulators**, and **systems for real users**.  
 
 <img src="https://blob.gifcities.org/gifcities/6WUE4WCPNE7GYO6Y3IB6FPMCOV3FSKO2.gif" width="100%">
+<div align="center">
+  <img src="https://i.pinimg.com/originals/90/57/88/905788bfeb3da571f0163df32595aa0d.gif" width="50px">
+  <img width="50" alt="image" src="https://github.com/user-attachments/assets/3c195817-49ab-453e-8552-a9b2e936603a" />
+  <img src="https://i.pinimg.com/originals/82/2a/ba/822aba46a059fddb0f1b42d99f77cfd8.gif" width="50px">
+  <img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Docker_%28container_engine%29_logo_%28cropped%29.png">  
+  <img width="50px" src="https://static.wikia.nocookie.net/fridaynightfunking/images/a/a8/ScratchCat_Left.gif/revision/latest/scale-to-width-down/250?cb=20210708135655">
+</div>
 
 </samp>
