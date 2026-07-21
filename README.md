@@ -19,7 +19,7 @@
   <img src="https://blob.gifcities.org/gifcities/JK3WPXZXOT5TLYNVEUGASOHEISI6ZUYU.gif" width="1000">
 </p>
 
-### Languages I’ve worked with
+<img src="static/gif/Languages.gif" width="180">
 
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
@@ -29,7 +29,7 @@
 
 
 
-### Databases
+<img src="static/gif/Databases.gif" width="180">
 
 ![MySQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-000?&logo=mariadb)
@@ -37,7 +37,7 @@
 ![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=sqlite)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
 
-### Frameworks
+<img src="static/gif/frameworks.gif" width="180">
 
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
 [![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)](#)
@@ -46,7 +46,8 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=pandas)
 
-### Tools & Technologies
+<img src="static/gif/Tools.gif" width="180">
+
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker)
 ![Podman](https://img.shields.io/badge/-Podman-000?&logo=podman)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
@@ -56,7 +57,7 @@
 ![Render](https://img.shields.io/badge/-Render-000?&logo=render)
 ![Ollama](https://img.shields.io/badge/-Ollama-000?&logo=ollama)
 
-### Operating Systems
+<img src="static/gif/OS.gif" width="180">
 
 ![EndeavourOS](https://img.shields.io/badge/-EndeavourOS-000?&logo=endeavouros)
 ![CachyOS](https://img.shields.io/badge/-CachyOS-000?&logo=cachyos)
@@ -96,6 +97,7 @@
   <img src="https://i.pinimg.com/originals/82/2a/ba/822aba46a059fddb0f1b42d99f77cfd8.gif" width="50px">
   <img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Docker_%28container_engine%29_logo_%28cropped%29.png">  
   <img width="50px" src="https://static.wikia.nocookie.net/fridaynightfunking/images/a/a8/ScratchCat_Left.gif/revision/latest/scale-to-width-down/250?cb=20210708135655">
+  <img width="50" src="https://raw.githubusercontent.com/gist/wuhan005/b3fc9288b77106605d3b6fde855d1735/raw/f7cb231595adff68a2808c82132751b535632538/%E2%9D%A4%EF%B8%8FGopher.GIF">
 </div>
 
 </samp>
