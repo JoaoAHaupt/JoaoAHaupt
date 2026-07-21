@@ -9,9 +9,15 @@
 </h3>
 <samp>
 <div align="center">
+<div align="center">
+  <a href="https://linkedin.com/in/joaoahaupt">
+    <img src="https://blob.gifcities.org/gifcities/3AE5CBZDD3KN33UUP3NWXFTYZ3MSHSKO.gif" width="100" alt="LinkedIn">
+  </a>
 
-[![LinkedIn](https://blob.gifcities.org/gifcities/3AE5CBZDD3KN33UUP3NWXFTYZ3MSHSKO.gif)](https://linkedin.com/in/joaoahaupt)
-[![Email](https://blob.gifcities.org/gifcities/53H4BUKNMCR7BQQJWKCMH7YQK6JIGA6O.gif)](mailto:joao.haupt.oliveira@gmail.com)
+  <a href="mailto:joao.haupt.oliveira@gmail.com">
+    <img src="https://blob.gifcities.org/gifcities/53H4BUKNMCR7BQQJWKCMH7YQK6JIGA6O.gif" width="60" alt="Email">
+  </a>
+</div>
 
 </div>
 </samp>
