@@ -1,8 +1,8 @@
 <h3 align="center">
   <img src="https://blob.gifcities.org/gifcities/IR52KJNYWCMOWVXYX4IIO7UV3PX6RR6R.gif"> <br>
-  <img src="https://blob.gifcities.org/gifcities/24WAP4DAYTKWRRO6VBXYTH2YA4VFLFAA.gif" width="120px" alt="tux">
+  <img src="https://blob.gifcities.org/gifcities/24WAP4DAYTKWRRO6VBXYTH2YA4VFLFAA.gif" width="13%" alt="tux">
   <img src="static/img/name.png" width="60%" alt="ASCII name art">
-  <img src="static/gif/globe.gif" width="100px" alt="globe">
+  <img src="static/gif/globe.gif" width="11%" alt="globe">
   <br>
   <img src="static/gif/comp.gif">
 
