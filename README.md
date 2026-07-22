@@ -84,7 +84,7 @@
 
 - **FLUSP** - FLOSS at USP: A group of graduate and undergraduate students at the University of São Paulo (USP) that aims to contribute to free software (Free/Libre/Open Source Software - FLOSS) projects. <img src="https://blob.gifcities.org/gifcities/7C3NEBU2AHXJNKEWAMD5ROI7LJ37KIMG.gif" height="50">
   
-- **FEA.dev**: Studant association of Fin. Quant. and artificial intelligence (AI) of FEAUSP (School of Economics, Business, Accounting and Actuary/USP)
+- **FEA.dev**: Student association of Fin. Quant. and artificial intelligence (AI) of FEAUSP (School of Economics, Business, Accounting and Actuary/USP)
 
 <p align="center">
   <img src="https://blob.gifcities.org/gifcities/JK3WPXZXOT5TLYNVEUGASOHEISI6ZUYU.gif" width="1000">
